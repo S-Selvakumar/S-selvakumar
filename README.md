@@ -48,8 +48,31 @@
    GitHub  •  VS Code  •  OpenCV 
 </div>
 
----
+<hr>
 
+<h2>📊 Individual Platform Profiles</h2>
+
+
+  <a href="https://leetcode.com/u/s-selvakumar/">
+    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="30">
+  </a>
+  <br>
+  <a href="https://www.codechef.com/users/selvakumars03">
+    <img src="https://img.shields.io/badge/CODECHEF-PROFILE-brown?style=for-the-badge&logo=codechef&logoColor=white" height="30">
+  </a>
+    <br>
+  <a href="https://codeforces.com/profile/selvakumar03">
+    <img src="https://img.shields.io/badge/CODEFORCES-PROFILE-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="30">
+  </a>
+  <br>
+  <a href="https://www.geeksforgeeks.org/user/selvakumars03/">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30">
+  </a>
+    <br>
+  <a href="https://www.hackerrank.com/profile/selvakumars03">
+    <img src="https://img.shields.io/badge/HACKERRANK-PROFILE-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" height="30">
+  </a>
+<hr>
 <div>
 
 ## 🚀 Project
@@ -60,8 +83,7 @@ A simple medicine reminder application that helps users remember
 their scheduled medicines and maintain their daily medication routine.
 
 </div>
-
----
+<hr>
 
 <div>
 
