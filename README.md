@@ -47,7 +47,32 @@
 
    GitHub  •  VS Code  •  OpenCV 
 </div>
+<div>
+  <hr>
 
+<h2>📊 Codolio — Combined Stats</h2>
+
+
+<p>
+  <a href="https://codolio.com/profile/S.Selvakumar">
+    <img src="https://img.shields.io/badge/▥%20CODOLIO-Combined%20Stats-8B5CF6?style=for-the-badge&labelColor=111827&color=8B5CF6" alt="Codolio">
+  </a>
+</p>
+
+<p>
+  All competitive programming activity aggregated in one place -
+  <a href="https://codolio.com/profile/S.Selvakumar">
+   codolio.com/profile/S.Selvakumar
+  </a>
+</p>
+
+<p>
+  <b>Total Questions Solved:</b> 430+ &nbsp; | &nbsp;
+  <b>Total Active Days:</b> 50 &nbsp; | &nbsp;
+  <b>Competitive Programming:</b> 196
+</p>
+
+</div>
 <hr>
 
 <h2>📊 Individual Platform Profiles</h2>
@@ -75,6 +100,7 @@
 <hr>
 <div>
 
+<hr>
 ## 🚀 Project
 
 ### 💊 Medicine Reminder
